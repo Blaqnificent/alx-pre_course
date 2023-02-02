@@ -1,0 +1,9 @@
+git clone
+git add *
+git commit -m
+git push origin master
+git branch update_script
+git checkout update_script
+git push origin update_script
+git pull
+git rm
